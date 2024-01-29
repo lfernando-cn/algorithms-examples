@@ -11,5 +11,4 @@ public class App {
             return n * factorialRecursive(n - 1);
         }
     }
-    
 }
