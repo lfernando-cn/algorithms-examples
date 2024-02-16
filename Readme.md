@@ -1,6 +1,6 @@
 # Algorithms from "Grokking Algorithms" Book
 
-This repository contains implementations of various algorithms discussed in the book "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People" by Aditya Bhargava.
+This repository contains implementations of various algorithms discussed in the book 'Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People' by Aditya Bhargava, as well as implementations of additional algorithms.
 
 ## List of Algorithms
 
