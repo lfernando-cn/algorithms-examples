@@ -11,6 +11,7 @@ This repository contains implementations of various algorithms discussed in the 
 - [Counter Recursive](https://github.com/lfernando-cn/Algorithms/blob/main/Counter_Recursive/src/App.java)
 - [Bubble Sort](https://github.com/lfernando-cn/Algorithms/blob/main/Bubble_Sort/src/App.java)
 - [Quick Sort](https://github.com/lfernando-cn/Algorithms/blob/main/Quick_Sort/src/App.java)
+- [Insertion Sort](https://github.com/lfernando-cn/algorithms-examples/blob/main/Insertion_Sort/src/App.java)
 - <!-- Add more as you implement -->
 
 Each algorithm is implemented in Java within its respective folder.
