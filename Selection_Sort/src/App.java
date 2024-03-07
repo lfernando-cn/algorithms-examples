@@ -1,3 +1,12 @@
+/* Time complexity:
+ *   - Best case: O(n^2) when the array is sorted in reverse order.
+ *   - Worst case: O(n^2) regardless of the initial order.
+ *   - Average case: O(n^2).
+ * 
+ * Selection Sort is not suitable for large datasets due to its quadratic complexity,
+ * but it has the advantage of performing fewer swaps compared to other sorting algorithms.
+ */
+ 
 public class App {
     public static void main(String[] args) throws Exception {
         int []arr = {89,60,32,14,13,01,56};
