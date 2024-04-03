@@ -6,9 +6,6 @@ This repository contains implementations of various algorithms discussed in the 
 
 - [Binary Search](https://github.com/lfernando-cn/Algorithms/blob/main/Binary_Search/src/App.java)
 - [Selection Sort](https://github.com/lfernando-cn/Algorithms/blob/main/Selection_Sort/src/App.java)
-- [Factorial Recursive](https://github.com/lfernando-cn/Algorithms/blob/main/Factorial_Recursive/src/App.java)
-- [Sum Recursive](https://github.com/lfernando-cn/Algorithms/blob/main/Sum_Recursive/src/App.java)
-- [Counter Recursive](https://github.com/lfernando-cn/Algorithms/blob/main/Counter_Recursive/src/App.java)
 - [Bubble Sort](https://github.com/lfernando-cn/Algorithms/blob/main/Bubble_Sort/src/App.java)
 - [Quick Sort](https://github.com/lfernando-cn/Algorithms/blob/main/Quick_Sort/src/App.java)
 - [Insertion Sort](https://github.com/lfernando-cn/algorithms-examples/blob/main/Insertion_Sort/src/App.java)
